@@ -48,7 +48,10 @@ Usage:
 This package comes with an installer that makes things extremely easy:
 
 ```bash
-./installer.sh
+git clone Repository
+Go to the directory
+chmod +x ./installer.sh
+sudo ./installer.sh
 ```
 
 Once the installer is complete, you will be able to use both the anonsurf and pandora modules.
